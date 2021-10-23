@@ -1,0 +1,43 @@
+{
+    "welcome": "Accoglienza",
+    "language": "Lingua",
+    "expirybell": "Scadenza campana",
+    "Login": "Login",
+    "Settings": "Impostazioni",
+    "Documents": "Documenti" ,
+    "Grocery": "Drogheria",
+    "Events": "Eventi",
+    "Medicines": "Medicinali",
+    "101Items": "101 articoli",
+    "Home": "Pagina iniziale",
+    "Addnewitem": "Aggiungi un nuovo elemento",
+    "Profile": "Profilo",
+    "Product": "Prodotto",
+    "Notifications": "Notifiche",
+    "Close": "Chiudere",
+    "Pakistan": "Pakistan",
+    "UserName": "Nome utente",
+    "Done": "Fatto",
+    "Selectlanguage": "Seleziona la lingua",
+    "ChangePassword": "Cambia la password",
+    "Security": "Sicurezza",
+    "Password": "Parola d'ordine",
+    "ForgetPassword" : "Password dimenticata",
+    "ChangeLanguage" : "Cambia lingua",
+    "Signup": "Iscrizione",
+    "password_hint": "Parola d'ordine",
+    "AddImage": "Aggiungi immagine",
+    "Category": "Categoria",
+    "Title": "Titolo",
+    "ExpiryDate": "Data di scadenza",
+    "Save": "Salva",
+    "ChooseImage": "Scegli immagine",
+    "Verify": "Verificare",
+    "ResetPassword": "Resetta la password",
+    "Reset": "Ripristina"
+
+
+    
+
+
+}

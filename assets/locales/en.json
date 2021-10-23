@@ -1,0 +1,43 @@
+{
+    "welcome": "Welcome",
+    "language": "Language",
+    "expirybell": "Expiry Bell",
+    "Login": "Login",
+    "Settings": "Settings",
+    "Documents": "Documents" ,
+    "Grocery": "Grocery",
+    "Events": "Events",
+    "Medicines": "Medicines",
+    "101Items": "101items",
+    "Home": "Home",
+    "Addnewitem": "Add New Item",
+    "Profile": "Profile",
+    "Product": "Product",
+    "Notifications": "Notifications",
+    "Close": "Close",
+    "Pakistan": "Pakistan",
+    "UserName": "User Name",
+    "Done": "Done",
+    "Selectlanguage": "Select Language",
+    "ChangePassword": "Change Password",
+    "Security": "Security",
+    "Password": "Password",
+    "ForgetPassword" : "Forget Password",
+    "ChangeLanguage" : "Change Language",
+    "Signup": "Signup",
+    "password_hint": "Password",
+    "AddImage": "Add Image",
+    "Category": "Category",
+    "Title": "Title",
+    "ExpiryDate": "Expiry Date",
+    "Save": "Save",
+    "ChooseImage": "Choose Image",
+    "Verify": "Verify",
+    "ResetPassword": "Reset Password",
+    "Reset": "Reset"
+
+
+    
+
+
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315292857306",
+    "project_id": "expiry-bell",
+    "storage_bucket": "expiry-bell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315292857306:android:6e23e73fd7f72bd81d06e3",
+        "android_client_info": {
+          "package_name": "com.example.expirybell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315292857306-9apgpqgv26amq62rfo8sv3ksuvdvlt81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VLgpLgzed8XiwB5mLFdEa209yxEaor8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315292857306-9apgpqgv26amq62rfo8sv3ksuvdvlt81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
